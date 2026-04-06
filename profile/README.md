@@ -32,7 +32,7 @@ VolPE operates on a decentralized architecture where each participant runs a **V
 
 ---
 
-### ### Getting Started for Volunteers
+### Getting Started for Volunteers
 
 1. **Clone the Repository:**
 ```bash
@@ -61,6 +61,6 @@ Once your container is running, it will wait for the **VolPE Orchestrator** to a
 
 ---
 
-### ### Contributing
+### Contributing
 
 We are always looking for contributors to help optimize the migration protocols and expand the library of supported evolutionary operators. If you are interested in distributed systems or genetic algorithms, feel free to submit a PR or join our community discussions.
