@@ -64,5 +64,3 @@ Once your container is running, it will wait for the **VolPE Orchestrator** to a
 ### ### Contributing
 
 We are always looking for contributors to help optimize the migration protocols and expand the library of supported evolutionary operators. If you are interested in distributed systems or genetic algorithms, feel free to submit a PR or join our community discussions.
-
-**Would you like me to add a section specifically explaining how the `MuPlusLambda` strategy is utilized within the distributed migration logic?**
